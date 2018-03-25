@@ -1,3 +1,0 @@
-# HMS-repository
-
-Hello World
