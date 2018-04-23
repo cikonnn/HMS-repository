@@ -6,7 +6,7 @@ Codeignither 2.1.2</br>
 Bootstrap 3.0</br>
 jquery 1.7</br>
 
-
+//TestforSCM
 
 <h2>What HMS can do ? :</h2>
 <ul>
